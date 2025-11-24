@@ -23,14 +23,17 @@ Data Visualization: matplotlib.pyplot
 Interface: Command Line / Terminal
 
 # Steps to Run the Project:
-Open the Terminal: Navigate to the project directory in your terminal or command prompt.
 
-# Install Dependencies:
-This project requires external libraries.
-Run:
+Open the Terminal: In VS Code, go to the menu bar and select Terminal > New Terminal.
+
+Install Dependencies: In the terminal window that appears, install the required external libraries:
+
 Bash
+
 pip install numpy matplotlib
-# Start the Program:
-Execute the script using the Python interpreter:
+
+Start the Program: Type the following command (using your script name) and press Enter:
+
 Bash
-python tracker_script_minimalist.py
+
+python house_water_tracker.py
